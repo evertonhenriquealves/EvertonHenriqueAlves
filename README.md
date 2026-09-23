@@ -76,13 +76,12 @@ Combining a strong background in **incident management (SLAs), technical support
   <a href="https://github.com/evertonhenriquealves?tab=repositories" target="_blank">
     <img 
       align="left" 
-      alt="Tecnologias Mais Utilizadas" 
+      alt="Tecnologias" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=evertonhenriquealves&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
     />
   </a>
 </p>
-
 
 ---
 
