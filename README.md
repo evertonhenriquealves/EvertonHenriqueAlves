@@ -72,13 +72,5 @@ Combining a strong background in **incident management (SLAs), technical support
 
 ---
 
-## 📊 Most Used Languages
-
-<p align="left">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evertonhenriquealves&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" alt="Tecnologias" />
-</p>
-
----
-
 🤝 **Open to opportunities, technical collaborations, and networking.**  
 📫 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/everton-henrique-alves) or explore my repositories!
