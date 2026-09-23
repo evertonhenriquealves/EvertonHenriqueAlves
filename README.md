@@ -71,6 +71,7 @@ Combining a strong background in **incident management (SLAs), technical support
 
 ---
 
+
 <p align="left">
   <a href="https://github.com/evertonhenriquealves?tab=repositories" target="_blank">
     <img 
@@ -81,6 +82,7 @@ Combining a strong background in **incident management (SLAs), technical support
     />
   </a>
 </p>
+
 
 ---
 
