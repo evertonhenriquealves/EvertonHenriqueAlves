@@ -1,7 +1,7 @@
-## Hi 👋, I'm Everton Henrique Alves
+## Hi 👋, I'm Everton Henrique Alves | 🇧🇷 Brazil
 
-🚀 **Data Engineer Jr | Cloud & DevOps | SQL | Python | Systems & Infrastructure Support** 🇧🇷 Brazil
 
+🚀 **Data Engineer Jr | Cloud & DevOps | SQL | Python | Systems & Infrastructure Support** 
 
 🇬🇧 I build data pipelines, automation workflows, and cloud-based infrastructures. Combining a background in technical support, incident management (SLAs), and process documentation (SOPs) with applied data engineering skills, I focus on data architecture, SQL optimization, and AWS solutions.
 
