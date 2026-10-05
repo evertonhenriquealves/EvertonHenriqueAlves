@@ -45,6 +45,7 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 - **ETL & Data Processing:** Python scripting and SQL queries for data cleaning, transformation, and process automation.
 - **NoSQL & Analytics:** Practical experience with NoSQL databases (MongoDB, Redis), Databricks, and Google Colab environments.
